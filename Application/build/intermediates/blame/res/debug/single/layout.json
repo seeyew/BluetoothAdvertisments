@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/layout/fragment_advertiser.xml",
+        "source": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/layout/fragment_advertiser.xml"
+    },
+    {
+        "merged": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/layout/listitem_scanresult.xml",
+        "source": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/layout/listitem_scanresult.xml"
+    },
+    {
+        "merged": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/layout/activity_main.xml"
+    }
+]

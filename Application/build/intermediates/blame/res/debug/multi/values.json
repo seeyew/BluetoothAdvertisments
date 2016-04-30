@@ -1,0 +1,1028 @@
+[
+    {
+        "outputFile": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 61,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 61,
+                        "endOffset": 173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endColumn": 61,
+                    "endOffset": 235
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endColumn": 61,
+                        "endOffset": 235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 240,
+                    "endColumn": 63,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 63,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 989,
+                    "endColumn": 58,
+                    "endOffset": 1043
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 989,
+                        "endColumn": 58,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1048,
+                    "endColumn": 56,
+                    "endOffset": 1100
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endColumn": 56,
+                        "endOffset": 1100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1105,
+                    "endColumn": 53,
+                    "endOffset": 1154
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1105,
+                        "endColumn": 53,
+                        "endOffset": 1154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1159,
+                    "endColumn": 69,
+                    "endOffset": 1224
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 959,
+                        "endColumn": 69,
+                        "endOffset": 1024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1229,
+                    "endColumn": 42,
+                    "endOffset": 1267
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 880,
+                        "endColumn": 42,
+                        "endOffset": 918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1272,
+                    "endColumn": 43,
+                    "endOffset": 1311
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 836,
+                        "endColumn": 43,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1316,
+                    "endColumn": 44,
+                    "endOffset": 1356
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 791,
+                        "endColumn": 44,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1361,
+                    "endColumn": 42,
+                    "endOffset": 1399
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 42,
+                        "endOffset": 786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1404,
+                    "endColumn": 41,
+                    "endOffset": 1441
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 706,
+                        "endColumn": 41,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1446,
+                    "endColumn": 67,
+                    "endOffset": 1509
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1029,
+                        "endColumn": 67,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1514,
+                    "endColumn": 62,
+                    "endOffset": 1572
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 62,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1577,
+                    "endColumn": 84,
+                    "endOffset": 1657
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1763,
+                        "endColumn": 84,
+                        "endOffset": 1843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1662,
+                    "endColumn": 70,
+                    "endOffset": 1728
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1584,
+                        "endColumn": 70,
+                        "endOffset": 1650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1733,
+                    "endColumn": 60,
+                    "endOffset": 1789
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/base-strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 60,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1794,
+                    "endColumn": 61,
+                    "endOffset": 1851
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 238,
+                        "endColumn": 61,
+                        "endOffset": 295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1856,
+                    "endColumn": 107,
+                    "endOffset": 1959
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 107,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1964,
+                    "endColumn": 119,
+                    "endOffset": 2079
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 119,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2084,
+                    "endColumn": 87,
+                    "endOffset": 2167
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endColumn": 87,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2172,
+                    "endColumn": 64,
+                    "endOffset": 2232
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 993,
+                        "endColumn": 64,
+                        "endOffset": 1053
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2237,
+                    "endColumn": 79,
+                    "endOffset": 2312
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1401,
+                        "endColumn": 79,
+                        "endOffset": 1476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2317,
+                    "endColumn": 45,
+                    "endOffset": 2358
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1203,
+                        "endColumn": 45,
+                        "endOffset": 1244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2363,
+                    "endColumn": 47,
+                    "endOffset": 2406
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1353,
+                        "endColumn": 47,
+                        "endOffset": 1396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2411,
+                    "endLine": 38,
+                    "endColumn": 13,
+                    "endOffset": 2632
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/base-strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 708,
+                        "endLine": 28,
+                        "endColumn": 13,
+                        "endOffset": 941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2637,
+                    "endColumn": 45,
+                    "endOffset": 2678
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1107,
+                        "endColumn": 45,
+                        "endOffset": 1148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2683,
+                    "endColumn": 48,
+                    "endOffset": 2727
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1058,
+                        "endColumn": 48,
+                        "endOffset": 1102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2732,
+                    "endColumn": 49,
+                    "endOffset": 2777
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1153,
+                        "endColumn": 49,
+                        "endOffset": 1198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2782,
+                    "endColumn": 51,
+                    "endOffset": 2829
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1301,
+                        "endColumn": 51,
+                        "endOffset": 1348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2834,
+                    "endColumn": 45,
+                    "endOffset": 2875
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1655,
+                        "endColumn": 45,
+                        "endOffset": 1696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2880,
+                    "endColumn": 43,
+                    "endOffset": 2919
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endColumn": 43,
+                        "endOffset": 537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2924,
+                    "endColumn": 57,
+                    "endOffset": 2977
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1526,
+                        "endColumn": 57,
+                        "endOffset": 1579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2982,
+                    "endColumn": 44,
+                    "endOffset": 3022
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1481,
+                        "endColumn": 44,
+                        "endOffset": 1521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3027,
+                    "endColumn": 51,
+                    "endOffset": 3074
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1249,
+                        "endColumn": 51,
+                        "endOffset": 1296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3079,
+                    "endColumn": 72,
+                    "endOffset": 3147
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 616,
+                        "endColumn": 72,
+                        "endOffset": 684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3152,
+                    "endColumn": 64,
+                    "endOffset": 3212
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 857,
+                        "endColumn": 64,
+                        "endOffset": 917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3217,
+                    "endColumn": 73,
+                    "endOffset": 3286
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 542,
+                        "endColumn": 73,
+                        "endOffset": 611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3291,
+                    "endColumn": 85,
+                    "endOffset": 3372
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 85,
+                        "endOffset": 770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3377,
+                    "endColumn": 70,
+                    "endOffset": 3443
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 922,
+                        "endColumn": 70,
+                        "endOffset": 988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3448,
+                    "endColumn": 61,
+                    "endOffset": 3505
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1701,
+                        "endColumn": 61,
+                        "endOffset": 1758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3510,
+                    "endColumn": 81,
+                    "endOffset": 3587
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 775,
+                        "endColumn": 81,
+                        "endOffset": 852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3592,
+                    "endColumn": 50,
+                    "endOffset": 3638
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 51,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3643,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 4052
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1159,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 1568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4057,
+                    "endLine": 64,
+                    "endColumn": 12,
+                    "endOffset": 4116
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1573,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 1632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4121,
+                    "endLine": 67,
+                    "endColumn": 12,
+                    "endOffset": 4242
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1637,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4247,
+                    "endLine": 70,
+                    "endColumn": 12,
+                    "endOffset": 4370
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1763,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 4375,
+                    "endColumn": 59,
+                    "endOffset": 4430
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 60,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 4435,
+                    "endColumn": 52,
+                    "endOffset": 4483
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 53,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 4488,
+                    "endColumn": 26,
+                    "endOffset": 4510
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 27,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 4515,
+                    "endLine": 77,
+                    "endColumn": 12,
+                    "endOffset": 4706
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 4711,
+                    "endLine": 83,
+                    "endColumn": 12,
+                    "endOffset": 4984
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1075,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1348
+                    }
+                }
+            }
+        ]
+    }
+]

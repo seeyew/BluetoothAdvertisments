@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_action_refresh.png",
+        "source": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/drawable-xhdpi/ic_action_refresh.png"
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "outputFile": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/values-v21/values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values-v21/base-colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 8,
+                        "startOffset": 652,
+                        "endColumn": 50,
+                        "endOffset": 694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 50,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values-v21/base-colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 8,
+                        "startOffset": 703,
+                        "endColumn": 54,
+                        "endOffset": 749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 50,
+                    "endOffset": 199
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values-v21/base-colors.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 8,
+                        "startOffset": 758,
+                        "endColumn": 54,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 204,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 515
+                },
+                "from": {
+                    "file": "/Users/seeyew/projects/googlesamples/android-BluetoothAdvertisements/Application/src/main/res/values-v21/base-template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 677,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 988
+                    }
+                }
+            }
+        ]
+    }
+]
